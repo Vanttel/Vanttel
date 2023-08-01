@@ -1,8 +1,8 @@
 <div id="header" align="center">
-<img src="https://tenor.com/s4GxB91yUHP.gif">
+<img src="https://tenor.com/s4GxB91yUHP.gif"/>
 <h1 align="center">Hi 👋, I'm Vanttel</h1>
 <h3 align="center">I am literally Satoru Gojou</h3>
-
+</div>
 - 🌱 I’m currently learning **HTML,CSS,JAVA AND PYTHON**
 
 - 👨‍💻 All of my projects are available here [https://github.com/Vanttel](https://github.com/Vanttel)
