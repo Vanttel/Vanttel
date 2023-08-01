@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://tenor.com/s4GxB91yUHP.gif" width="200" />
+<img src="https://tenor.com/s4GxB91yUHP.gif">
 <h1 align="center">Hi 👋, I'm Vanttel</h1>
 <h3 align="center">I am literally Satoru Gojou</h3>
 
