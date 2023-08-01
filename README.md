@@ -10,7 +10,32 @@
 - 📫 How to reach me **hotkeisg@gmail.com**
 
 - ⚡ Fun fact **Jjk>>your favorite animanga**
-
+- <!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://www.tiktok.com/@vanttel.ds3">
+<strong>Follow me on TikTok </strong>
+<br />
+<br />
+<br />
+<p>
+<img alt="Globe" height="80" src="https://media.giphy.com/media/oXnhMWMM6JRHsBSWL4/giphy.gif">
+</a>
+</p>
+</td>
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3SaVOpgSa6M">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+<p>
+<img height="100" alt="Music" src="https://media.giphy.com/media/EB4FdMpFBn3C5gckHp/giphy.gif"> 
+</a>
+</p>
+</td>
+</tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/horaclejokes-tj-27b54b206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/horaclejokes-tj-27b54b206/" height="30" width="40" /></a>
